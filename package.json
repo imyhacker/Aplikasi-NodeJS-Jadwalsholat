@@ -1,0 +1,19 @@
+{
+  "name": "nnode",
+  "version": "1.0.0",
+  "description": "Aplikasi Sederhana Kapan Waktu Sholat",
+  "main": "app.js",
+  "scripts": {
+    "about": "node app about",
+    "htu": "node app htu",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arikun | RiiHaxor",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "yargs": "^16.2.0"
+  }
+}
